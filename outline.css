@@ -1,0 +1,14 @@
+.outline {
+    margin: 50px;
+    padding: 50px;
+
+    /* outline-style: solid;
+    outline-color: aqua;
+    outline-width: 10px; */
+
+    outline: 10px red dashed;
+
+    border-style: dotted;
+    border-color: brown;
+    border-width: 5px;
+}
